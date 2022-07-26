@@ -13,7 +13,7 @@ Contain 2 Files📄
 2. `lib.rs`:
 - Present at `substrate-node-template/runtime/src`.
 - Catalog of programs and libraries written in the Rust programming language.
-- Contains pallets , carates and few notable projects published opensource.
+- Contains pallets , carates and few notable projects published open source.
 
 <hr>
 
